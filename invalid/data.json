@@ -1,0 +1,16 @@
+{
+    "invalid_login_users": [
+      {
+        "username": "ozlem",
+        "password": "akman"
+      },
+      {
+        "username": "rumeysa",
+        "password": "coskun"
+      },
+      {
+        "username": "ahmet",
+        "password": "sifree"
+      }
+    ]
+  }
